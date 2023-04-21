@@ -2,11 +2,11 @@
 title: Edge documentation
 ------
 
-#Introduction to Microsoft Edge
+# Introduction to Microsoft Edge
 
-[Setting up Microsoft Edge](#setting-up-microsoft-edge)
+## [Setting up Microsoft Edge](#setting-up-microsoft-edge)
 - [Add a site to favorites](#add-a-site-to-favorites)
-- [Add sites to the bookmark bar](#add-sites-to-the-bookmark bar)
+- [Add sites to the bookmark bar](#add-sites-to-the-bookmark-bar)
 - [Make Edge your default browser](#make-edge-your--default-browser)
 - [Sync Edge across devices](#sync-edge-across-devices)
 - [Set your home page](#set-your-home-page)
@@ -16,7 +16,8 @@ title: Edge documentation
 - [Set up vertical tabs](#set-up-vertical-tabs)
 - [Set up the sidebar](#set-up-the-sidebar)
 - [Use web capture](#use-web-capture)
-[Staying safe with Microsoft Edge](#staying-safe-with-microsoft-edge)
+
+## [Staying safe with Microsoft Edge](#staying-safe-with-microsoft-edge)
 - [Set privacy settings](#set-privacy-settings)
 - [Prevent app tracking](#prevent-app-tracking)
 - [Browse privately](#browse-privately)
@@ -24,7 +25,8 @@ title: Edge documentation
 - [Block pop-ups](#block-popups)
 - [Delete cookies](#delete-cookies)
 - [Save or forget passwords](#save-or-forget-passwords)
-[Configuring Accessibility Settings](#configuring-accessibility-settings)
+
+## [Configuring Accessibility Settings](#configuring-accessibility-settings)
 - [Adjust text size](#adjust-text-size)
 - [Change high-contrast modes](#change-high-contrast-modes)
 - [Use screen readers](#use-screen-readers)
@@ -34,9 +36,11 @@ title: Edge documentation
 	- [Read aloud with Immersive Reader](#read-aloud-with-immersive-reader)
 	- [Use grammar tools](#use-grammar-tools)
 	- [Set reading preferences](#set-reading-preferences)
-[Optimizing Microsoft Edge](#optimizing-microsoft-edge)
+
+## [Optimizing Microsoft Edge](#optimizing-microsoft-edge)
 - [Clear your cache](#clear-your-cache)
 - [Set sleeping tabs](#set-sleeping-tabs)
 - [Set efficiency mode](#set-efficiency-mode)
-[Using keyboard shortcuts in Micfrosoft Edge](#using-keyboard-shortcuts-in-microsoft-edge)
+
+## [Using keyboard shortcuts in Micfrosoft Edge](#using-keyboard-shortcuts-in-microsoft-edge)
 
