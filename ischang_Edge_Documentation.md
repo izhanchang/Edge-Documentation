@@ -122,7 +122,7 @@ Taking a web capture is a convenient way to record what is on the screen. There 
 
 ### Sync Edge across devices
 Syncing your account allows your browser preferences to be virtually available on the web. When you sync your account on Microsoft Edge, you can then log in and access your personalized browser on any device. 
-1. Select the profile icon next to the address bar. 
+1. Select the profile icon ![profile](https://github.com/izhanchang/Edge-Documentation/blob/450e687ab244a1f216d8bf30b54bfb0077e9251b/profile.png) next to the address bar. 
 2. Choose the account you want to sign into, or [add a new account](#add-a-new-account).
 3. Sign in to sync account.
 
