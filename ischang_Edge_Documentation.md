@@ -48,6 +48,18 @@ Microsoft Edge is a popular browser that comes pre-downloaded on machines runnin
 
 ## Setting up Microsoft Edge
 
+### Make Microsoft Edge your default browser
+If you use Microsoft Edge often, consider making it your default browser. With Edge as the default, you can experience a faster, more personalized setup each time you access your browser.
+1. Select the **Settings and more** icon in the top right corner, then choose **Settings**.
+2. Select **Default browser**.
+3. Select **Make default**.
+
+### Set your home page
+By default, the home page is set to open on a personalized news feed. However, you can set Microsoft Edge to always open to your preferred page.
+1. Select the **Settings and more** icon in the top right corner, then choose **Settings**.
+2. Select **Start, home, and new tabs**.
+3. Under **Home button**, insert the web address of the home page you want Edge to show each time you open a new tab.
+
 ### Add a site to favorites
 Add your most-used websites to favorites and quickly access them on the favorites bar.
 1. Open Microsoft Edge and go to the site you want to add to your favorites. 
@@ -61,40 +73,6 @@ The favorites bar is a row underneath the address bar that conveniently lists we
 3. Scroll down to **Show favorites bar**.
 4. In the drop-down menu, select from the view options to show or hide the bookmarks bar.
 
-### Make Microsoft Edge your default browser
-If you use Microsoft Edge often, consider making it your default browser. With Edge as the default, you can experience a faster, more personalized setup each time you access your browser.
-1. Select the **Settings and more** icon in the top right corner, then choose **Settings**.
-2. Select **Default browser**.
-3. Select **Make default**.
-
-### Sync Edge across devices
-Syncing your account allows your browser preferences to be virtually available on the web. When you make an account on Microsoft Edge, you can then log in and access your personalized browser on any device. 
-1. Select the profile icon next to the address bar. 
-2. Choose the account you want to sign into, or [add a new account](#add-a-new-account).
-3. Sign in to sync account.
-
-### Set your home page
-By default, the home page is set to open on a personalized news feed. However, you can set Microsoft Edge to always open to your preferred page.
-1. Select the **Settings and more** icon in the top right corner, then choose **Settings**.
-2. Select **Start, home, and new tabs**.
-3. Under **Home button**, insert the web address of the home page you want Edge to show each time you open a new tab.
-
-### Update Microsoft Edge
-Microsoft makes regular updates to Edge, and keeping your browser up-to-date ensures that you have the best browsing experience possible. 
-1. Select the **Settings and more** icon in the top right corner, then choose **Settings**.
-2. Select **About Microsoft Edge**.
-3. If Edge is up-to-date, the page will show that no action is needed. If an update is available, select **Download and install to proceed**. 
-4. After the update is installed, restart Microsoft Edge to finish updating.
-
-### Add and manage extensions
-Extensions allow you to add convenient tools to your browser and personalize your web experience. There are a variety of extensions available to help you control how websites behave and add features to your browser.
-1. Select the **Settings and more** icon in the top right corner, then choose **Extensions**.
-2. Select **Manage Extensions**. 
-3. Select **Get extensions for Microsoft Edge**.
-4. Search for extensions to add to Microsoft Edge.
-
-Remove extensions by selecting **Manage Extensions**, then clicking **Remove** for the extension you want to remove. 
-
 ### Set collections
 If you have a set of websites, notes, and images you want to reference again, you can make a collection to store it all in a single place. 
 1. Select the **Settings and more** icon in the top right corner, then choose **Collections**. 
@@ -105,6 +83,15 @@ If you have a set of websites, notes, and images you want to reference again, yo
 6. To add text, drag and drop it in the window.
 7. Tap **Add note** to add a note to the collection.
 8. Tap the three-dot menu for sharing options.
+
+### Add and manage extensions
+Extensions allow you to add convenient tools to your browser and personalize your web experience. There are a variety of extensions available to help you control how websites behave and add features to your browser.
+1. Select the **Settings and more** icon in the top right corner, then choose **Extensions**.
+2. Select **Manage Extensions**. 
+3. Select **Get extensions for Microsoft Edge**.
+4. Search for extensions to add to Microsoft Edge.
+
+Remove extensions by selecting **Manage Extensions**, then clicking **Remove** for the extension you want to remove. 
 
 ### Set up vertical tabs
 Vertical tabs take up less space on the screen, allowing more tabs to be visible at once and expanding the screen's workspace. 
@@ -132,6 +119,19 @@ Taking a web capture is a convenient way to record what is on the screen. There 
 #### From the keyboard shortcut:
 1. Tap and hold ctrl-shift-S (Windows) or shift-cmd-4 (Mac).
 2. Click and drag around the area you want to capture.
+
+### Sync Edge across devices
+Syncing your account allows your browser preferences to be virtually available on the web. When you make an account on Microsoft Edge, you can then log in and access your personalized browser on any device. 
+1. Select the profile icon next to the address bar. 
+2. Choose the account you want to sign into, or [add a new account](#add-a-new-account).
+3. Sign in to sync account.
+
+### Update Microsoft Edge
+Microsoft makes regular updates to Edge, and keeping your browser up-to-date ensures that you have the best browsing experience possible. 
+1. Select the **Settings and more** icon in the top right corner, then choose **Settings**.
+2. Select **About Microsoft Edge**.
+3. If Edge is up-to-date, the page will show that no action is needed. If an update is available, select **Download and install to proceed**. 
+4. After the update is installed, restart Microsoft Edge to finish updating.
 
 ## Staying safe with Microsoft Edge
 
