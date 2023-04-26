@@ -7,7 +7,7 @@ Microsoft Edge is a popular browser that comes pre-downloaded on machines runnin
 
 ## Setting up Microsoft Edge
 
-- [Make Edge your default browser](#make-edge-your--default-browser)
+- [Make Edge your default browser](#make-edge-your-default-browser)
 - [Set your home page](#set-your-home-page)
 - [Add a site to favorites](#add-a-site-to-favorites)
 - [View the favorites bar](#view-the-favorites-bar)
@@ -31,7 +31,7 @@ Microsoft Edge is a popular browser that comes pre-downloaded on machines runnin
 - [Adjust text size](#adjust-text-size)
 - [Change high-contrast modes](#change-high-contrast-modes)
 - [Use screen readers](#use-screen-readers)
-- [Use the translation feature](#use-the-translation-featre)
+- [Use the translation feature](#use-the-translation-feature)
 - [Using the Immersive Reader](#using-the-immersive-reader)
 	- [Enter Reader mode](#enter-reader-mode)
 	- [Read aloud with Immersive Reader](#read-aloud-with-immersive-reader)
@@ -50,12 +50,12 @@ Microsoft Edge is a popular browser that comes pre-downloaded on machines runnin
 
 ### Make Microsoft Edge your default browser
 If you use Microsoft Edge often, consider making it your default browser. With Edge as the default, you can experience a faster, more personalized setup each time you access your browser.
-1. Select the **Settings and more** icon in the top right corner, then choose **Settings**.
+1. Select the **Settings and more** icon ![settings and more]("C:\Users\ichan\OneDrive\Documents\GitHub\Edge-Documentation\settings and more.png") in the top right corner, then choose **Settings**.
 2. Select **Default browser**.
 3. Select **Make default**.
 
 ### Set your home page
-By default, the home page is set to open on a personalized news feed. However, you can set Microsoft Edge to always open to your preferred page.
+By default, the home page is set to open on a personalized news feed. However, you can set Microsoft Edge to open to a preferred page.
 1. Select the **Settings and more** icon in the top right corner, then choose **Settings**.
 2. Select **Start, home, and new tabs**.
 3. Under **Home button**, insert the web address of the home page you want Edge to show each time you open a new tab.
