@@ -50,7 +50,7 @@ Microsoft Edge is a popular browser that comes pre-downloaded on machines runnin
 
 ### Make Microsoft Edge your default browser
 If you use Microsoft Edge often, consider making it your default browser. With Edge as the default, you can experience a faster, more personalized setup each time you access your browser.
-1. Select the **Settings and more** icon ![settings and more]("C:\Users\ichan\OneDrive\Documents\GitHub\Edge-Documentation\settings-and-more.png") in the top right corner, then choose **Settings**.
+1. Select the **Settings and more** icon ![settings and more]("settings-and-more.png") in the top right corner, then choose **Settings**.
 2. Select **Default browser**.
 3. Select **Make default**.
 
