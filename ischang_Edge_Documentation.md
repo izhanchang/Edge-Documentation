@@ -3,29 +3,29 @@ title: Edge documentation
 ------
 
 # Introduction to Microsoft Edge
-Mirosoft Edge is one of the most popular browsers and comes pre-downloaded on Windows 10 machines or later. Learn how to use this powerful internet browser and maximize your online experience.
+Microsoft Edge is a popular browser that comes pre-downloaded on machines running Windows 10 or later. Learn how to use this powerful Internet browser and maximize your online experiences.
 
 ## Setting up Microsoft Edge
 
-- [Add a site to favorites](#add-a-site-to-favorites)
-- [View the bookmarks bar](#view-the-bookmarks-bar)
 - [Make Edge your default browser](#make-edge-your--default-browser)
-- [Sync Edge across devices](#sync-edge-across-devices)
 - [Set your home page](#set-your-home-page)
-- [Update Microsoft Edge](#update-microsoft-edge)
-- [Add and manage extensions](#add-and-manage-extensions)
+- [Add a site to favorites](#add-a-site-to-favorites)
+- [View the favorites bar](#view-the-favorites-bar)
 - [Set collections](#set-collections)
+- [Add and manage extensions](#add-and-manage-extensions)
 - [Set up vertical tabs](#set-up-vertical-tabs)
 - [Set up the sidebar](#set-up-the-sidebar)
 - [Use web capture](#use-web-capture)
+- [Sync Edge across devices](#sync-edge-across-devices)
+- [Update Microsoft Edge](#update-microsoft-edge)
 
-## Staying safe with Microsoft Edge
+## Staying Safe with Microsoft Edge
 - [Set privacy settings](#set-privacy-settings)
-- [Browse privately](#browse-privately)
-- [Manage browser history](#manage-browser-history)
 - [Block pop-ups](#block-popups)
 - [Delete cookies](#delete-cookies)
 - [Save or forget passwords](#save-or-forget-passwords)
+- [Manage browser history](#manage-browser-history)
+- [Browse privately](#browse-privately)
 
 ## Configuring Accessibility Settings
 - [Adjust text size](#adjust-text-size)
@@ -44,7 +44,7 @@ Mirosoft Edge is one of the most popular browsers and comes pre-downloaded on Wi
 - [Set efficiency mode](#set-efficiency-mode)
 
 ## Using keyboard shortcuts in Microsoft Edge
-- [Available shortcuts](#available-shortcuts)
+- [Learn keyboard shortcuts](#Learn-keyboard-shortcuts)
 
 ## Setting up Microsoft Edge
 
@@ -246,7 +246,7 @@ Turn on efficiency mode to improve your device's battery life and resources used
 ## Using keyboard shortcuts in Microsoft Edge
 Microsoft Edge supports a variety of keyboard shortcuts to make working in the browser easier and faster.
 
-### Available Shortcuts
+### Learn keyboard shortcuts
 
 | Windows          | Mac                  | Function                          |
 |------------------|----------------------|-----------------------------------|
