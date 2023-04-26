@@ -63,11 +63,11 @@ By default, the home page is set to open on a personalized news feed. However, y
 ### Add a site to favorites
 Add your most-used websites to favorites and quickly access them on the favorites bar.
 1. Navigate to the site you want to add to your favorites. 
-2. Click on **Add this page to favorites** ![favorites](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) next to the address bar.
-3. If desired, rename the favorite or move the webpage to a folder, then click **done**.
+2. Click on **Add this page to favorites** ![favorites](https://github.com/izhanchang/Edge-Documentation/blob/1cc6bbbe7085b88753d5f5310aa1fe3b683f4539/favorites.png) next to the address bar.
+3. If desired, rename the favorite or move the webpage to a folder, then click **Done**.
 
 ### View the favorites bar
-The favorites bar is a row underneath the address bar that conveniently lists websites you add to favorites. Toggle this bar on and off to see websites important to you.
+The favorites bar is a row underneath the address bar that lists websites you add to favorites. Toggle this bar on and off to see websites important to you.
 1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Appearance**.
 3. Scroll down to **Show favorites bar**.
@@ -77,7 +77,7 @@ The favorites bar is a row underneath the address bar that conveniently lists we
 If you have a set of websites, notes, and images you want to reference again, you can make a collection to store it all in a single place. 
 1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Collections**. 
 2. In the pop-up window, select **Next**, then **Get started**.
-3. Click **New Collection** and rename the collection.
+3. Click **New Collection** and name the collection.
 4. Click **Add current page** to add the current page to the collection. 
 5. To add an image, drag and drop it in the window.
 6. To add text, drag and drop it in the window.
@@ -85,13 +85,13 @@ If you have a set of websites, notes, and images you want to reference again, yo
 8. Tap the three-dot menu for sharing options.
 
 ### Add and manage extensions
-Extensions allow you to add convenient tools to your browser and personalize your web experience. There are a variety of extensions available to help you control how websites behave and add features to your browser.
+Extensions allow you to add tools to your browser and personalize your web experience. There are a variety of extensions available to help you control how websites behave and add features to your browser.
 1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Extensions**.
-2. Select **Manage Extensions**. 
+2. Select **Manage extensions**. 
 3. Select **Get extensions for Microsoft Edge**.
 4. Search for extensions to add to Microsoft Edge.
 
-Remove extensions by selecting **Manage Extensions**, then clicking **Remove** for the extension you want to remove. 
+Remove extensions by selecting **Manage extensions**, then clicking **Remove** for the extension you want to remove. 
 
 ### Set up vertical tabs
 Vertical tabs take up less space on the screen, allowing more tabs to be visible at once and expanding the screen's workspace. 
@@ -100,7 +100,7 @@ Vertical tabs take up less space on the screen, allowing more tabs to be visible
 3. Under **Customize toolbar**, select **Turn on** for **Show vertical tabs for all current browser windows**. 
 
 ### Set up the sidebar
-The sidebar allows you to multitask on the same page as your web content. Draft an email, do quick math, or search on a page within the sidebar.
+The sidebar allows you to multitask on the same page as your web content. Draft an email, do quick math, or search on a page with the sidebar.
 1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Sidebar**.
 3. Toggle on **Always show sidebar**.
@@ -117,11 +117,11 @@ Taking a web capture is a convenient way to record what is on the screen. There 
 2. In the menu that appears, select **Web capture**.
 3. Click and drag around the area you want to capture.
 #### From the keyboard shortcut:
-1. Tap and hold ctrl-shift-S (Windows) or shift-cmd-4 (Mac).
+1. Tap and hold ***ctrl-shift-S*** (Windows) or ***shift-cmd-4*** (Mac).
 2. Click and drag around the area you want to capture.
 
 ### Sync Edge across devices
-Syncing your account allows your browser preferences to be virtually available on the web. When you make an account on Microsoft Edge, you can then log in and access your personalized browser on any device. 
+Syncing your account allows your browser preferences to be virtually available on the web. When you sync your account on Microsoft Edge, you can then log in and access your personalized browser on any device. 
 1. Select the profile icon next to the address bar. 
 2. Choose the account you want to sign into, or [add a new account](#add-a-new-account).
 3. Sign in to sync account.
@@ -145,7 +145,7 @@ Edge offers private browsing, where it will not remember your browsing history o
 1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **New Inprivate window**. 
 
 ### Manage browser history
-See and clear your browser history on Edge to remove your data.
+See and clear your browser history on Edge to remove your data from your browsing session.
 1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Privacy, search, and services**.
 3. Under **Clear browsing data**, select an option from the **Choose what to clear** dropdown menu.
@@ -162,12 +162,12 @@ Clear cookies from websites to speed up your computer, remove suspicous cookies,
 1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Privacy, search, and services**.
 3. Under **Clear browsing data**, select **Choose what to clear**.
-4. Select the time range you want to clear cookies from.
+4. Select the time range you want to clear cookies.
 5. In the checklist, check **Cookies and other site data**, as well as any other items you want to clear data from.
 6. Click **Clear now**.
 
 ### Save or forget passwords
-Microsoft Edge allows you to securely store usernames and passwords online so you can log into websites faster. You can also choose to have the browser never store your login information.
+Microsoft Edge allows you to securely store usernames and passwords online so you can log into websites faster. However, you can choose to have the browser never store your login information.
 1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Profiles**, then **Passwords**.
 3. Toggle on/off **Offer to save passwords**. 
@@ -185,25 +185,25 @@ Use high-contrast modes to make text easier to read on screen.
 1. Turn on high contrast mode by pressing ***Alt+Shift+Print Screen***.
 
 ### Use the screen reader
-Microsoft Edge can read back what's on the screen to youto help make content more accessible. 
+Microsoft Edge can read aloud what's on the screen to help make content more accessible. 
 1. Open the webpage you want Edge to read aloud.
 2. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Read aloud**.
 
 ### Translate a page
 If a webpage is in a different language than your system, Microsoft Edge automatically offers to translate the page into your system language. However, you can also choose to manually translate the webpage.
 1. Select the translate icon next to the address bar.
-2. In the pop-up, click on the dropdown menu and select the language you want to translate into.
+2. In the pop-up, click on the dropdown menu and select the language you want to translate to.
 
 ### Use the Immersive Reader
-Microsoft Edge offers the Immersive Reader - a tool thatsimplifies web pages and gives access to several learning and accessibility features unique to Edge. 
+Microsoft Edge offers the Immersive Reader - a tool that simplifies web pages and gives access to several learning and accessibility features unique to the browser. 
 #### Enter Reader Mode
-Reader Mode removes distracting ads and popups from a webpage to help you focus on the important content. Enter Reader Mode for a focused experience and access to even more productivity tools.
+Reader Mode removes distracting ads and popups from a webpage to help you focus on the important content. Enter Reader Mode for a focused experience and gain access to even more productivity tools.
 1. Visit the website you want to use the Immersive Reader with.
 2. Select **Enter Immersive Reader** next to the address bar.
 3. Select **Exit Immersive Reader** to exit Immersive Reader.
  
 #### Read aloud with Immersive Reader
-Read aloud while in Immersive Reader to hear the text on the page.
+Read aloud with Immersive Reader to hear the text on the page.
 1. Enter **Immersive Reader**. 
 2. Select **Read Aloud** from the Immersive Reader toolbar. 
 3. Click on the **Play**, **Skip**, and **Pause** buttons to start and stop the reader. 
@@ -225,7 +225,7 @@ Turn on tools to enhance your reading, such as line focusing, picture dictionary
 ## Optimizing Microsoft Edge
 Microsoft Edge has several options to help enhance browser performance.
 ### Clear your cache
-Cached data is data a browser saves when you visit different webpages. While this data helps the browser collect information about the app and reduce load time, it can decrease the overall efficiency of the browser. 
+Cached data is data a browser saves when you visit a webpage. While this data helps the browser collect information about the app and reduce load time, it can eventually decrease the overall efficiency of the browser. 
 1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Privacy**, then click **Choose what to clear**.
 3. Toggle on **Cached images and files**.
@@ -244,7 +244,7 @@ Turn on efficiency mode to improve your device's battery life and resources used
 3. Under **Optimize Performance**, choose one of the options in the dropdown menu to determine when efficiency mode should be turned on.
 
 ## Using keyboard shortcuts in Microsoft Edge
-Microsoft Edge supports a variety of keyboard shortcuts to make working in the browser easier and faster.
+Microsoft Edge supports a variety of keyboard shortcuts to make working in the browser easier and faster. 
 
 ### Learn keyboard shortcuts
 
