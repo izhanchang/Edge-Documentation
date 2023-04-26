@@ -7,7 +7,7 @@ Microsoft Edge is a popular browser that comes pre-downloaded on machines runnin
 
 ## Setting up Microsoft Edge
 
-- [Make Edge your default browser](#make-edge-your-default-browser)
+- [Make Edge your default browser](#make-microsoft-edge-your-default-browser)
 - [Set your home page](#set-your-home-page)
 - [Add a site to favorites](#add-a-site-to-favorites)
 - [View the favorites bar](#view-the-favorites-bar)
@@ -15,13 +15,13 @@ Microsoft Edge is a popular browser that comes pre-downloaded on machines runnin
 - [Add and manage extensions](#add-and-manage-extensions)
 - [Set up vertical tabs](#set-up-vertical-tabs)
 - [Set up the sidebar](#set-up-the-sidebar)
-- [Use web capture](#use-web-capture)
+- [Take a web capture](#take-a-web-capture)
 - [Sync Edge across devices](#sync-edge-across-devices)
 - [Update Microsoft Edge](#update-microsoft-edge)
 
 ## Staying Safe with Microsoft Edge
 - [Set privacy settings](#set-privacy-settings)
-- [Block pop-ups](#block-popups)
+- [Block pop-ups](#block-pop-ups)
 - [Delete cookies](#delete-cookies)
 - [Save or forget passwords](#save-or-forget-passwords)
 - [Manage browser history](#manage-browser-history)
@@ -30,12 +30,12 @@ Microsoft Edge is a popular browser that comes pre-downloaded on machines runnin
 ## Configuring Accessibility Settings
 - [Adjust text size](#adjust-text-size)
 - [Change high-contrast modes](#change-high-contrast-modes)
-- [Use screen readers](#use-screen-readers)
-- [Use the translation feature](#use-the-translation-feature)
-- [Using the Immersive Reader](#using-the-immersive-reader)
+- [Use the screen reader](#use-the-screen-reader)
+- [Translate a page](#translate-a-page)
+- [Use the Immersive Reader](#use-the-immersive-reader)
 	- [Enter Reader mode](#enter-reader-mode)
 	- [Read aloud with Immersive Reader](#read-aloud-with-immersive-reader)
-	- [Use grammar tools](#use-grammar-tools)
+	- [Use grammar tools](#mark-the-page-with-grammar-tools)
 	- [Set reading preferences](#set-reading-preferences)
 
 ## Optimizing Microsoft Edge
