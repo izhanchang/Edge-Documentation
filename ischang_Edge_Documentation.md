@@ -231,7 +231,7 @@ Cached data is data a browser saves when you visit a webpage. While this data he
 3. Toggle on **Cached images and files**.
 
 ### Set sleeping tabs
-You can put unused tabs to "sleep" after a period of inefficiency. This frees up the browser's memory and improves performance.
+You can put unused tabs to "sleep" after a period of inactivity. This frees up the browser's memory and improves performance.
 1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **System**.
 3. Toggle on **Save resources with sleeping tabs**.
