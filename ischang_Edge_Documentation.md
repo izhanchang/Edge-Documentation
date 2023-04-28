@@ -50,13 +50,13 @@ Microsoft Edge is a popular browser that comes pre-downloaded on machines runnin
 
 ### Make Microsoft Edge your default browser
 If you use Microsoft Edge often, consider making it your default browser. With Edge as the default, you can experience a faster, more personalized setup each time you access your browser.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Default browser**.
 3. Select **Make default**.
 
 ### Set your home page
 By default, the home page is set to open on a personalized news feed. However, you can set Microsoft Edge to open to your preferred page.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Start, home, and new tabs**.
 3. Under **Home button**, insert the address of the page you want Microsoft Edge to show each time you open a new tab.
 
@@ -68,14 +68,14 @@ Add your most-used websites to favorites and quickly access them on the favorite
 
 ### View the favorites bar
 The favorites bar is a row underneath the address bar that lists websites you add to favorites. Toggle this bar on and off to see websites important to you.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Appearance**.
 3. Scroll down to **Show favorites bar**.
 4. In the drop-down menu, select from the view options to show or hide the bookmarks bar.
 
 ### Set collections
 If you have a set of websites, notes, and images you want to reference again, you can make a collection to store it all in a single place. 
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Collections**. 
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Collections**. 
 2. In the pop-up window, select **Next**, then **Get started**.
 3. Click **New Collection** and name the collection.
 4. Click **Add current page** to add the current page to the collection. 
@@ -86,7 +86,7 @@ If you have a set of websites, notes, and images you want to reference again, yo
 
 ### Add and manage extensions
 Extensions allow you to add tools to your browser and personalize your web experience. There are a variety of extensions available to help you control how websites behave and add features to your browser.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Extensions**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Extensions**.
 2. Select **Manage extensions**. 
 3. Select **Get extensions for Microsoft Edge**.
 4. Search for extensions to add to Microsoft Edge.
@@ -95,13 +95,13 @@ Remove extensions by selecting **Manage extensions**, then clicking **Remove** f
 
 ### Set up vertical tabs
 Vertical tabs take up less space on the screen, allowing more tabs to be visible at once and expanding the screen's workspace. 
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Appearance**. 
 3. Under **Customize toolbar**, select **Turn on** for **Show vertical tabs for all current browser windows**. 
 
 ### Set up the sidebar
 The sidebar allows you to multitask on the same page as your web content. Draft an email, do quick math, or search on a page with the sidebar.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Sidebar**.
 3. Toggle on **Always show sidebar**.
 4. Select **Customize sidebar**.
@@ -110,7 +110,7 @@ The sidebar allows you to multitask on the same page as your web content. Draft 
 ### Take a web capture
 Taking a web capture is a convenient way to record what is on the screen. There are several ways to take a web capture:
 #### From the menu:
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Web capture**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Web capture**.
 2. Click and drag around the area you want to capture.
 #### From the mousepad:
 1. Right-click anywhere on the screen.
@@ -128,7 +128,7 @@ Syncing your account allows your browser preferences to be virtually available o
 
 ### Update Microsoft Edge
 Microsoft makes regular updates to Edge, and keeping your browser up-to-date ensures that you have the best browsing experience possible. 
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **About Microsoft Edge**.
 3. If Edge is up-to-date, the page will show that no action is needed. If an update is available, select **Download and install to proceed**. 
 4. After the update is installed, restart Microsoft Edge to finish updating.
@@ -137,29 +137,29 @@ Microsoft makes regular updates to Edge, and keeping your browser up-to-date ens
 
 ### Set privacy settings
 Depending on if your device is shared or only for personal use, you may want to adjust privacy settings to protect your data. Edge offers different levels of privacy options to help keep you safe online.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Privacy, search, and services**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Privacy, search, and services**.
 2. Toggle on and off privacy settings you wish to enable or disable.
 
 ### Browse privately
 Edge offers private browsing, where it will not remember your browsing history or settings. This is useful when you are on a shared device and do not want others to be able to access your information.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **New Inprivate window**. 
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **New Inprivate window**. 
 
 ### Manage browser history
 See and clear your browser history on Edge to remove your data from your browsing session.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Privacy, search, and services**.
 3. Under **Clear browsing data**, select an option from the **Choose what to clear** dropdown menu.
 
 ### Block pop-ups
 Prevent unwanted tabs or downloads from opening by blocking pop-ups in the browser.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Cookies and site permissions**.
 3. Under **All permissions**, select **Pop-ups and redirects**.
 4. Toggle on **Block (recommended)** and add any sites you want to block or allow pop-ups on.
 
 ### Delete cookies
 Clear cookies from websites to speed up your computer, remove suspicous cookies, and protect your privacy.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Privacy, search, and services**.
 3. Under **Clear browsing data**, select **Choose what to clear**.
 4. Select the time range you want to clear cookies.
@@ -168,7 +168,7 @@ Clear cookies from websites to speed up your computer, remove suspicous cookies,
 
 ### Save or forget passwords
 Microsoft Edge allows you to securely store usernames and passwords online so you can log into websites faster. However, you can choose to have the browser never store your login information.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Profiles**, then **Passwords**.
 3. Toggle on/off **Offer to save passwords**. 
 
@@ -176,7 +176,7 @@ Microsoft Edge allows you to securely store usernames and passwords online so yo
 
 ### Adjust text size
 Increase or decrease the text size to suit your reading preferences.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Appearance**.
 3. Under **Fonts**, select a size option from the dropdown menu.
 
@@ -187,7 +187,7 @@ Use high-contrast modes to make text easier to read on screen.
 ### Use the screen reader
 Microsoft Edge can read aloud what's on the screen to help make content more accessible. 
 1. Open the webpage you want Edge to read aloud.
-2. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Read aloud**.
+2. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Read aloud**.
 
 ### Translate a page
 If a webpage is in a different language than your system, Microsoft Edge automatically offers to translate the page into your system language. However, you can also choose to manually translate the webpage.
@@ -226,13 +226,13 @@ Turn on tools to enhance your reading, such as line focusing, picture dictionary
 Microsoft Edge has several options to help enhance browser performance.
 ### Clear your cache
 Cached data is data a browser saves when you visit a webpage. While this data helps the browser collect information about the app and reduce load time, it can eventually decrease the overall efficiency of the browser. 
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **Privacy**, then click **Choose what to clear**.
 3. Toggle on **Cached images and files**.
 
 ### Set sleeping tabs
 You can put unused tabs to "sleep" after a period of inefficiency. This frees up the browser's memory and improves performance.
-1. Select the **Settings and more** icon ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
+1. Select **Settings and more** ![settings and more](https://github.com/izhanchang/Edge-Documentation/blob/913973345741d0620ae195cc4d2e3c8f9679ea8e/Images/settings-and-more.png) in the top right corner, then choose **Settings**.
 2. Select **System**.
 3. Toggle on **Save resources with sleeping tabs**.
 4. In the dropdown menu, select the amount of time that should elapse before tabs go to sleep. 
